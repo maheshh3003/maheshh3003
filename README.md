@@ -205,7 +205,7 @@ _"First solve the problem. Then write the code." – John Johnson_ ⚡
 
 <div align="center">
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=maheshh3003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<!-- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=maheshh3003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/> -->
 
 <!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="60" height="60"/>
 
